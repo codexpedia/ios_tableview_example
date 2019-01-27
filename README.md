@@ -1,6 +1,10 @@
 # ios tableview example
 https://www.codexpedia.com/ios/ios-tableview-example-for-displaying-list-of-items/
 
+
+<img src="https://github.com/codexpedia/ios_tableview_example/blob/master/captures/screen.png" width="260" height="520"/>
+
+
 Defining the tableCell identifier in the storyboard.
 <img src="https://github.com/codexpedia/ios_tableview_example/blob/master/captures/identifier.png" alt="defining the tabelCell identifier" />
 
